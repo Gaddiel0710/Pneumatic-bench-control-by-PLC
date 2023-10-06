@@ -84,20 +84,23 @@ END_IF
 
 
 ## Programming conversion in CoDeSys to FST
-![image](https://github.com/Gaddiel0710/Pneumatic-bench-control-by-PLC/assets/135661300/086428ec-7f1a-4aae-acb6-657cc4876992)
-![image](https://github.com/Gaddiel0710/Pneumatic-bench-control-by-PLC/assets/135661300/d212e06e-0546-4720-9d43-6b1d62dd11a3)
-![image](https://github.com/Gaddiel0710/Pneumatic-bench-control-by-PLC/assets/135661300/302fefcd-f122-4738-8632-d425c05de920)
-![image](https://github.com/Gaddiel0710/Pneumatic-bench-control-by-PLC/assets/135661300/68f5f14a-0581-478f-a101-af7085c87fbb)
-![image](https://github.com/Gaddiel0710/Pneumatic-bench-control-by-PLC/assets/135661300/33ced741-38e0-4051-9bac-4e17110064df)
-![image](https://github.com/Gaddiel0710/Pneumatic-bench-control-by-PLC/assets/135661300/53e68d03-243f-4c62-827e-df9e28d1d7a0)
-![image](https://github.com/Gaddiel0710/Pneumatic-bench-control-by-PLC/assets/135661300/56a721f2-eab0-4308-9225-1c222924dd9d)
-![image](https://github.com/Gaddiel0710/Pneumatic-bench-control-by-PLC/assets/135661300/10c106ea-0261-49f5-96c7-7f39c9fc3abf)
+
+![image](https://github.com/Gaddiel0710/Pneumatic-bench-control-by-PLC/assets/135661300/05a7d221-149b-4301-90fa-a93894ecbd18)
+![image](https://github.com/Gaddiel0710/Pneumatic-bench-control-by-PLC/assets/135661300/63473c87-d1a3-47e6-88b4-446260fa4ff9)
+![image](https://github.com/Gaddiel0710/Pneumatic-bench-control-by-PLC/assets/135661300/b638485a-c9e9-4e26-a189-165037158298)
+![image](https://github.com/Gaddiel0710/Pneumatic-bench-control-by-PLC/assets/135661300/4e377c5c-f68d-48e2-8d68-3f629a5d4651)
+![image](https://github.com/Gaddiel0710/Pneumatic-bench-control-by-PLC/assets/135661300/5bf30155-c739-4cf4-8b0e-d0411d96d8e4)
+![image](https://github.com/Gaddiel0710/Pneumatic-bench-control-by-PLC/assets/135661300/440803cd-5347-4dff-9bfa-26788480ca2a)
+![image](https://github.com/Gaddiel0710/Pneumatic-bench-control-by-PLC/assets/135661300/adaf7eda-c19e-48f8-8eb2-ca60bca4b7a4)
+![image](https://github.com/Gaddiel0710/Pneumatic-bench-control-by-PLC/assets/135661300/6deb4fb4-480d-47a0-afe0-bacf89a5cbdc)
+![image](https://github.com/Gaddiel0710/Pneumatic-bench-control-by-PLC/assets/135661300/ebd175c4-a8bc-45d8-ac5e-9ad660a11998)
+![image](https://github.com/Gaddiel0710/Pneumatic-bench-control-by-PLC/assets/135661300/730df96d-d5ab-4b63-a224-fe7b579529a6)
 
 
 ## video of the practice carried out physically
 _video final de la practica en fisico con apoyo del banco neumatico_
 
-video...
+
 
 
 
