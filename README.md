@@ -100,9 +100,4 @@ END_IF
 ## video of the practice carried out physically
 _video final de la practica en fisico con apoyo del banco neumatico_
 
-
-
-
-
-
-
+https://github.com/Gaddiel0710/Pneumatic-bench-control-by-PLC/assets/135661300/74fe795b-e8da-45d7-9302-b9c6fb98819d
